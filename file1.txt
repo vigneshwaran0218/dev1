@@ -1,2 +1,4 @@
 this is a new file in the local repo master.
 2nd line added to the branch local rep git.
+3rd line added to the repo git again. (2nd line is merged to master)
+4th line added to the branch "git differ"
